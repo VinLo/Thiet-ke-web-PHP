@@ -1,0 +1,43 @@
+.ForgetaccountPW{
+    position: absolute;
+    top: 15%;
+    background-image: url("backgroudImage/0efc2ddd3719c9479008.jpg");
+    background-position: center center;
+    background-attachment:fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: auto;
+    height: 500px;
+    text-align: center;
+    border: 2px white solid;
+    border-radius: 3%;
+    box-shadow: 5px 5px 6px white;
+}
+
+.font{
+    color: white;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+.lend1{
+    opacity: 80%;
+    font-family: sans-serif;
+    color: white;
+}
+.fontForgetPW{
+    color: white;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.login_btnFGPW{
+    color: black;
+    background-color: #FFC312;
+    width: 100px;
+    margin-right: 5px;
+}
+.login_btnFGPW:hover{
+    color: black;
+    background-color: white;
+}

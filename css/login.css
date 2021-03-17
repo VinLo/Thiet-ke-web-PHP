@@ -1,0 +1,38 @@
+.fromlogin{
+    position: absolute;
+    top: 10%;
+    background-image: url("backgroudImage/0efc2ddd3719c9479008.jpg");
+    background-position: center center;
+    background-attachment:fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 450px;
+    height: 540px;
+    text-align: center;
+    border: 2px white solid;
+    border-radius: 3%;
+    box-shadow: 5px 5px 6px white;
+}
+.H2{
+    color: white;
+}
+
+.login_btn{
+    color: black;
+    background-color: #FFC312;
+    width: 100px;
+    margin-right: 5px;
+}
+.login_btn:hover {
+    color: black;
+    background-color: white;
+}
+
+.labelSetup{
+    color: white;
+    font-size: 21px;
+    font-family: sans-serif;
+}
+.Small-deription{
+    color: white;
+}

@@ -1,0 +1,7 @@
+.box{
+    border: 2px black solid;
+    border-radius: 3%;
+    box-shadow: 5px 5px 6px white;
+    position: absolute;
+    top: 10%;
+}

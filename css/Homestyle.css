@@ -1,0 +1,26 @@
+html,body
+{
+    background-image: url("backgroudImage/0efc2ddd3719c9479008.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.font{
+    color: white;
+    font-family: sans-serif;
+}
+
+.font h1{
+    color: #ffdf7e;
+}
+
+.card-body button{
+    width: 400px;
+    height: 100px;
+    margin-bottom: 40px;
+}
+.carousel-item img
+{
+    height: 555px;
+}

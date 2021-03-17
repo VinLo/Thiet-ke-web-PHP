@@ -1,0 +1,24 @@
+.fromcreataccount{
+    position: absolute;
+    top: 10%;
+    background-image: url("backgroudImage/0efc2ddd3719c9479008.jpg");
+    background-position: center center;
+    background-attachment:fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 750px;
+    height: auto;
+    text-align: center;
+    border: 2px white solid;
+    border-radius: 3%;
+    box-shadow: 5px 5px 6px white;
+}
+
+.H1{
+    color: white;
+    font-family: sans-serif;
+}
+
+.fontall{
+    color: white;
+}

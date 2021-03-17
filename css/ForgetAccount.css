@@ -1,0 +1,34 @@
+.Forgetaccount{
+    position: absolute;
+    top: 30%;
+    background-image: url("backgroudImage/0efc2ddd3719c9479008.jpg");
+    background-position: center center;
+    background-attachment:fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 600px;
+    height: 300px;
+    text-align: center;
+    border: 2px white solid;
+    border-radius: 3%;
+    box-shadow: 5px 5px 6px white;
+}
+
+.fontForget{
+    color: white;
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+.login_btnForget{
+    color: black;
+    background-color: #FFC312;
+    width: 100px;
+    margin-right: 5px;
+}
+
+.login_btnForget:hover {
+    color: black;
+    background-color: white;
+}

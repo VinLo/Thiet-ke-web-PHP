@@ -1,0 +1,29 @@
+.helpUser{
+    position: absolute;
+    top: 10%;
+    background-color: white;
+    background-position: center center;
+    background-attachment:fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width:850px;
+    height: auto;
+    text-align: center;
+    border: 2px white solid;
+    border-radius: 3%;
+    box-shadow: 5px 5px 6px white;
+}
+.H1{
+    font-family: sans-serif;
+    font-weight: bold;
+    color: #FFC312;
+}
+.font
+{
+    color: black;
+}
+.imgHelp{
+    width: auto;
+    height: auto;
+    text-align: center;
+}
